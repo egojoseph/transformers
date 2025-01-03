@@ -261,7 +261,7 @@ python -m venv env
 .\env\Scripts\activate
 ```
 
-### GPU Setup
+### GPU Setup:
 
 To enable GPU acceleration for deep learning models, ensure you have the necessary drivers and frameworks installed. Refer to the official guides for setup instructions:
 - [TensorFlow Installation Guide](https://www.tensorflow.org/install)
